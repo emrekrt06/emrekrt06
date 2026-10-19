@@ -3,7 +3,7 @@
 # 👋 Hi, I’m Orhan
 
 
- •	🎓 Second-year Software Development student.<br>
+ •	🎓 Third-year Software Development student.<br>
  •	💡 Interested in Web Development, Game Development, Front-End and Back-End<br>
  •	🌍 Based in the Netherlands, fluent in Turkish & English (and learning Dutch)<br>
  •	📈 Currently focusing on learning Python, Django , DRF. Also writing clean code and building real-world projects<br>
